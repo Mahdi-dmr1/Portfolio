@@ -1,0 +1,71 @@
+{
+  "skills": [
+    {
+      "photo": "https://wallpaperaccess.com/full/8085076.png",
+      "title": "React skills",
+      "description": "click for more",
+      "about": "Unreal engine is also a game engine but more powerful in terms of graphics and tools which makes it alot harder to learn",
+      "id": 1,
+      "experience": "1 year",
+      "stage": "Junior",
+      "skills": "Personal traits: In love with programming and i don't get tired putting many hours writing codes. with sufficient knowledge in English language which counts as a plus in the field of programming i can put long hours problem solving.\n\n**Professional skills: I have been working with and learning React for a year. fully capable of developing a web page based on customer's needs . I have been using post-man as an API platform and context-API as a state management system.\n\nJavaScript , Html/Css , Bootstrap , fimiliar with TypeScript "
+    },
+    {
+      "title": "English skills",
+      "photo": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/04/07040422/IELTS-Reading-Tips-1.jpg",
+      "description": "Click fore more",
+      "stage": "Fully proficient",
+      "experience": "6 years",
+      "about": "English is a must in everyone's life because it is not only needed in the day to day life but if you want to pursue some fields like programming (like me) you're gonna need to be proficient.",
+      "skills": "proficient in all 4 aspects of English and i have gotten my ielts test form with acceptable grades: Speaking:6.5 , Listening:8.5 , Reading:6.5 , writing:6.5.",
+      "id": 3
+    },
+    {
+      "title": "Unity skills",
+      "photo": "https://cdn.wallpapersafari.com/34/14/xUEFQW.png",
+      "description": "Click fore more",
+      "stage": "Junior",
+      "experience": "1 year",
+      "about": "Unity is a game engine which is  used to create games both in 2D and 3D. one of the things that makes unity special is that it's cross-platform  which means you can export your game to play in any known platform you want.",
+      "skills": "Although i'm a bit rusty in game development, i can create a simple 2D and 3D game also i'm completely familiar with Unity's framework. coding with C# and a bit of C++.",
+      "id": 4
+    }
+  ],
+  "futureskills": [
+    {
+      "photo": "https://wallpapercave.com/wp/wp8038843.jpg",
+      "title": "Unreal engine",
+      "description": "click for more",
+      "about": "Unreal engine is also a game engine but more powerful in terms of graphics and tools which makes it alot harder to learn",
+      "goal": "In 10 years i want to be contributing in making a huge game after learning web-development. By then web games have made a great deal of progress which would make web development alot more exciting than it is right now.",
+      "id": 1
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp10318694.png",
+      "title": "Fullstack web development",
+      "description": "click for more",
+      "about": "Every website needs a security system and protection from hackers.",
+      "goal": "I am planning in the near future after learning the front-end , start learning back-end to call my self a fullstack developer and be able to bring up a project from scratch all by my self.",
+      "id": 2
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp5459831.jpg",
+      "title": "SEO",
+      "description": "click for more",
+      "about": "The importance of every website is that it would be in the first page of google for people to see it",
+      "goal": "In a few months i want to put learning seo as my hobby and start learning it slowly because every programmer needs to be at least familiar with it.",
+      "id": 3
+    }
+  ],
+  "aboutme": [
+    {
+      "Photo": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg",
+      "Name": "Mohammad Mahdi",
+      "SurName": "Damercheli",
+      "Mobile": "09122713600",
+      "Email": "damirchi159@gmail.com",
+      "Job": "Programmer",
+      "id": 1
+    }
+  ]
+}
